@@ -4,3 +4,7 @@ There's probably better ways of doing this, but I'm new to Ruby and couldn't fin
 other people posting on forums asking for the same) so I decided to try whip something up.
 
 Seems to work okay for me, please feel free to make any improvements/suggetions/etc :)
+
+Examples:
+* string_to_hex("StrToHex") returns "537472546f486578"
+* hex_to_string("486578546f537472") returns "HexToStr"
