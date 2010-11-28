@@ -1,3 +1,6 @@
 Just some simple functions for converting a hex data to a string and vice versa.
 
-There's probably better ways of doing this, but I'm new to Ruby and couldn't find out how to (and there were enough other people posting on forums asking for the same) so I decided to try whip something up. Seems to work okay for me :)
+There's probably better ways of doing this, but I'm new to Ruby and couldn't find out how to (and there were enough 
+other people posting on forums asking for the same) so I decided to try whip something up.
+
+Seems to work okay for me, please feel free to make any improvements/suggetions/etc :)
